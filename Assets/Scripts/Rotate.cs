@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Rotate : MonoBehaviour
 {
+    // here's  comment from windows!
     public AudioSource audioSource;
     
     private float ROT_SPEED = 180; // deg per sec
